@@ -4,7 +4,8 @@
 pcardoso.lei@gmail.com
 
 
-[![My Status](https://github-readme-stats.vercel.app/api?username=pcardosolei&show_icons=true&theme=dark)](/)<br/>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pcardosolei)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 - Thanks for visiting.
